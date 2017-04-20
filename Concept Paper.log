@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.19)  20 APR 2017 17:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.19)  20 APR 2017 18:45
 entering extended mode
 **"./Concept Paper.tex"
 ("Concept Paper.tex"
@@ -200,7 +200,7 @@ Missing character: There is no  in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [3] ("Concept Paper.aux")
+ [3]) [4] ("Concept Paper.aux")
 
 LaTeX Warning: There were undefined references.
 
@@ -221,9 +221,9 @@ ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Robert/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/
 Robert/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
 pfb>
-Output written on "Concept Paper.pdf" (3 pages, 128674 bytes).
+Output written on "Concept Paper.pdf" (4 pages, 130668 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
